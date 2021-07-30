@@ -1,6 +1,6 @@
 module.exports = {
   name: "unbanbalance",
-  group: "ZETCOINS_GROUP",
+  group: "ECONOMY_GROUP",
   description: "UNBANBALANCE_COMMAND_DESCRIPTION",
   usage: "UNBANBALANCE_COMMAND_USAGE",
   aliases: [ "unbanbal" ],

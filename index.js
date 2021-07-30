@@ -25,7 +25,7 @@ client.on("commandSuccess", () => client.usageCount++);
 
 client.options.allowedMentions.replied_user = false;
 
-const groups = [ "Basic", "Fun", "ZetCoins", "Moderation", "NSFW", "Other", "Settings", "Dev" ];
+const groups = [ "Basic", "Fun", "Economy", "Moderation", "NSFW", "Other", "Settings", "Dev" ];
 for (const group of groups) {
   client.loadCommandGroup(path.join(__dirname, "commands", group));
 }

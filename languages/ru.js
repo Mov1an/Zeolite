@@ -7,7 +7,7 @@ module.exports = {
 
   BASIC_GROUP: "Основные команды",
   FUN_GROUP: "Развлекательные команды",
-  ZETCOINS_GROUP: "ZetCoin'ы",
+  ECONOMY_GROUP: "Экономика",
   DEV_GROUP: "Команды для разработчиков",
   SETTINGS_GROUP: "Настройки",
   OTHER_GROUP: "Прочие команды",

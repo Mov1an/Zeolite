@@ -8,7 +8,7 @@ module.exports = {
 
   BASIC_GROUP: "Basic commands",
   FUN_GROUP: "Fun commands",
-  ZETCOINS_GROUP: "ZetCoins",
+  ECONOMY_GROUP: "Economy",
   DEV_GROUP: "Dev commands",
   SETTINGS_GROUP: "Settings",
   OTHER_GROUP: "Other commands",

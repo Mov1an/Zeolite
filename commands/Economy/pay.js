@@ -1,6 +1,6 @@
 module.exports = {
   name: "pay",
-  group: "ZETCOINS_GROUP",
+  group: "ECONOMY_GROUP",
   description: "SENDCOINS_COMMAND_DESCRIPTION",
   usage: "SENDCOINS_COMMAND_USAGE",
   aliases: [ "sendcoins" ],

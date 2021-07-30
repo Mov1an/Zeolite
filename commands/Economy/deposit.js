@@ -1,6 +1,6 @@
 module.exports = {
   name: "deposit",
-  group: "ZETCOINS_GROUP",
+  group: "ECONOMY_GROUP",
   description: "DEPOSIT_DESCRIPTION",
   aliases: [ "dep" ],
   async run(client, msg, args, prefix, lang) {
